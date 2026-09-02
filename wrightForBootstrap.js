@@ -1,4 +1,4 @@
-// WRIGHT FOR BOOTSTRAP POWERD BY THEINTERNETISAHELLHOLE
+// WRIGHT FOR BOOTSTRAP POWERD BY FOUAD SALEHI
 const https = require('https');
 const fs = require('fs');
 const path = require('path');
@@ -9,7 +9,7 @@ const indexFile = path.join(WRIGHT, 'index.html');
 const indexFileContent = `<!DOCTYPE html>
 <html lang="en">
     <head>
-        <title>WRIGHT POWERD BY THEINTERNETISAHELLHOLE</title>
+        <title>WRIGHT POWERD BY Fouad Salehi</title>
         
         <meta charset="UTF-8">
         <meta name="description" content="">
@@ -48,7 +48,7 @@ Second point: If you want to use libraries and frameworks, I suggest creating a 
 
 ## License
 
-(https://github.com/theinternetisahellhole)`;
+(https://github.com/fouad-salehi)`;
 
 const faviconURL = 'https://hellstate.web.app/favicon.ico';
 const favicon = path.join(WRIGHT, 'favicon.ico');

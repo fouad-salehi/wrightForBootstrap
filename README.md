@@ -1,5 +1,6 @@
 # wrightForBootstrap
 
+![wrightForBootstrap](https://img.shields.io/badge/version-1.1.0-important)
 ![Platform](https://img.shields.io/badge/platform-Node.js-green)
 ![Language](https://img.shields.io/badge/language-JavaScript-yellow)
 ![Purpose](https://img.shields.io/badge/purpose-folder%20generator-blue)

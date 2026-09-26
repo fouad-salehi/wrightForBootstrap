@@ -34,7 +34,7 @@ const info = (message) => {
 
 console.log('');
 console.log(`  ${CYAN}${BOLD}W R I G H T${RESET}`);
-console.log(`  ${DIM}Bootstrap Web Project Structure Generator${RESET}`);
+console.log(`  ${DIM}Web Project Structure Generator${RESET}`);
 console.log(`  ${DIM}Powered by Fouad Salehi${RESET}`);
 console.log('');
 

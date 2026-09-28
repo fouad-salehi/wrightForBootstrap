@@ -151,18 +151,22 @@ WRIGHT generates a starting structure rather than a complete application.
 
 You are free to modify, remove, rename, or extend any generated file or directory according to your project's requirements.
 
-## License
-
-This project is proprietary software.
-
-For the complete license terms, see the `LICENSE` file.
-
 ## WRIGHT Ecosystem
 
-* WRIGHT: https://github.com/fouad-salehi/wright
-* WRIGHT for Bootstrap: https://github.com/fouad-salehi/wrightForBootstrap
-* WRIGHT for Tailwind: https://github.com/fouad-salehi/wrightForTailwind
+* [WRIGHT](https://github.com/fouad-salehi/wright)
 
 ## Author
 
-**Fouad Salehi**
+**[Fouad Salehi](https://github.com/fouad-salehi)**
+
+## License
+
+WRIGHT is **proprietary software**.
+
+You may view and run the project for personal or evaluation purposes only. Copying, modifying, creating derivative works, incorporating the project into another project, or redistributing modified versions is **not** permitted.
+
+See the [LICENSE](./LICENSE) file for the complete terms.
+
+## Copyright
+
+Copyright © 2026 Fouad Salehi. All rights reserved.
